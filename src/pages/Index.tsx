@@ -114,7 +114,7 @@ const Index = () => {
           <nav className="flex items-center justify-between">
             <div className="flex items-center space-x-2">
               <Icon name="Activity" className="text-primary" size={32} />
-              <span className="text-2xl font-bold text-primary">ДентаЛюкс</span>
+              <span className="text-2xl font-bold text-primary">ЛЕГЕНДА</span>
             </div>
             <div className="hidden md:flex items-center space-x-8">
               <a href="#services" className="text-foreground hover:text-primary transition-colors">Услуги</a>
@@ -386,7 +386,7 @@ const Index = () => {
                   alt="Панорама клиники"
                   className="max-w-full max-h-[70vh] rounded-lg shadow-2xl"
                 />
-                <p className="mt-4 text-muted-foreground">3D-панорама клиники ДентаЛюкс</p>
+                <p className="mt-4 text-muted-foreground">3D-панорама клиники ЛЕГЕНДА</p>
               </div>
             </div>
           </div>
@@ -397,10 +397,10 @@ const Index = () => {
         <div className="container mx-auto px-4 text-center">
           <div className="flex items-center justify-center space-x-2 mb-4">
             <Icon name="Activity" size={32} />
-            <span className="text-2xl font-bold">ДентаЛюкс</span>
+            <span className="text-2xl font-bold">ЛЕГЕНДА</span>
           </div>
           <p className="mb-4">Современная стоматология для всей семьи</p>
-          <p className="text-sm opacity-80">© 2024 ДентаЛюкс. Все права защищены.</p>
+          <p className="text-sm opacity-80">© 2024 ЛЕГЕНДА. Все права защищены.</p>
         </div>
       </footer>
     </div>
